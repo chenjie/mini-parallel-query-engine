@@ -74,7 +74,7 @@ loops
 
 ## Contributing to this project
 
-1. Fork it [![GitHub forks](https://img.shields.io/github/forks/jellycsc/mini-parallel-query-engine.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/jellycsc/mini-parallel-query-engine/fork)
+1. Fork it [![GitHub forks](https://img.shields.io/github/forks/jellycsc/mini-parallel-query-engine.svg?style=social&label=Fork&maxAge=2592000&)](https://github.com/jellycsc/mini-parallel-query-engine/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to your feature branch (`git push origin my-new-feature`)

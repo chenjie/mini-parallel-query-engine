@@ -1,4 +1,6 @@
 # mini-parallel-query-engine
+[![GitHub license](https://img.shields.io/github/license/jellycsc/mini-parallel-query-engine.svg)](https://github.com/jellycsc/mini-parallel-query-engine/blob/master/LICENSE)
+
 This program is able to query words amongst different indices in parallel, which utilizes multi-core processors to some extent.
 
 ## Getting Started

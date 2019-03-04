@@ -47,6 +47,16 @@ Usage: query [-d DIRECTORY_NAME]
 * The `indexer` is already run and the results are provided in `databse` folder.
 * `index` and `filenames` are binary files in little endian.
 
+## Data Structures
+
+### FreqRecord
+
+![freqrecord](https://user-images.githubusercontent.com/25379724/53739269-59bec300-3e5f-11e9-8c8b-c809bd24296d.png)
+
+### Node (linkedlist)
+
+![node](https://user-images.githubusercontent.com/25379724/53739274-5b888680-3e5f-11e9-8a3a-f4936db9ee92.png)
+
 ## Examples
 ```
 $ # Word count for "sort"
